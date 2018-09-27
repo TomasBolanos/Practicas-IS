@@ -11,6 +11,7 @@
 * Eliminar archivos:
 
 `git rm  archivo`
+
 `git  commit  -m "Mensaje"`
 
 * Mover o renombrar archivos:
