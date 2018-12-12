@@ -1,6 +1,7 @@
 # PRODUCT BACKLOG
 
-1. BuscarAlumno ID:002 Prioridad: 0 N_horas: 7
+1. Creacion de clases Prioridad: MAX N_horas: 5
+1.1 BuscarAlumno ID:002 Prioridad: 0 N_horas: 2
 2. AñadirAlumno ID:005 Prioridad: 1 N_horas: 3
 3. MostrarTodos ID:004 Prioridad: 2 N_horas: 2
 4. ModificarAlumno ID:007 Prioridad: 2 N_horas: 2
