@@ -15,3 +15,5 @@
 13. Ficheros binarios donde guardes la información de los alumnos.
 14. No es obligatorio tener líder, pero si hay líder solo puede haber 1.
 15. Mostar el nombre del líder de forma distinta al resto.
+16. Posibilidad de que entren varios profesores y que usen credenciales.
+17. Dos roles de profesor, ayudante y coordinador ambos iguales salvo que coordinador puede guardar y cargar copias de seguridad.
